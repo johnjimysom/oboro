@@ -1,0 +1,2 @@
+﻿  listParser.cpp
+C:\Users\jimy\Documents\dev\listParser\listParser.cpp(7,10): fatal error C1083: Cannot open include file: 'boost/algorithm/string.hpp': No such file or directory
